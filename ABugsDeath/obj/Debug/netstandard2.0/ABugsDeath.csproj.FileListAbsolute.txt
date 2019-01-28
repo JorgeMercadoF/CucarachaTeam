@@ -1,0 +1,53 @@
+C:\Users\jcarl\Curso Vueling\Semana02\ABugsDeath\ABugsDeath\bin\Debug\netstandard2.0\ABugsDeath.deps.json
+C:\Users\jcarl\Curso Vueling\Semana02\ABugsDeath\ABugsDeath\bin\Debug\netstandard2.0\ABugsDeath.dll
+C:\Users\jcarl\Curso Vueling\Semana02\ABugsDeath\ABugsDeath\bin\Debug\netstandard2.0\ABugsDeath.pdb
+C:\Users\jcarl\Curso Vueling\Semana02\ABugsDeath\ABugsDeath\obj\Debug\netstandard2.0\ABugsDeath.csprojAssemblyReference.cache
+C:\Users\jcarl\Curso Vueling\Semana02\ABugsDeath\ABugsDeath\obj\Debug\netstandard2.0\ABugsDeath.csproj.CoreCompileInputs.cache
+C:\Users\jcarl\Curso Vueling\Semana02\ABugsDeath\ABugsDeath\obj\Debug\netstandard2.0\ABugsDeath.AssemblyInfoInputs.cache
+C:\Users\jcarl\Curso Vueling\Semana02\ABugsDeath\ABugsDeath\obj\Debug\netstandard2.0\ABugsDeath.AssemblyInfo.cs
+C:\Users\jcarl\Curso Vueling\Semana02\ABugsDeath\ABugsDeath\obj\Debug\netstandard2.0\ABugsDeath.dll
+C:\Users\jcarl\Curso Vueling\Semana02\ABugsDeath\ABugsDeath\obj\Debug\netstandard2.0\ABugsDeath.pdb
+F:\Works\Curso Vueling\Semana02\ABugsDeath\ABugsDeath\bin\Debug\netstandard2.0\ABugsDeath.deps.json
+F:\Works\Curso Vueling\Semana02\ABugsDeath\ABugsDeath\bin\Debug\netstandard2.0\ABugsDeath.dll
+F:\Works\Curso Vueling\Semana02\ABugsDeath\ABugsDeath\bin\Debug\netstandard2.0\ABugsDeath.pdb
+F:\Works\Curso Vueling\Semana02\ABugsDeath\ABugsDeath\obj\Debug\netstandard2.0\ABugsDeath.csprojAssemblyReference.cache
+F:\Works\Curso Vueling\Semana02\ABugsDeath\ABugsDeath\obj\Debug\netstandard2.0\ABugsDeath.csproj.CoreCompileInputs.cache
+F:\Works\Curso Vueling\Semana02\ABugsDeath\ABugsDeath\obj\Debug\netstandard2.0\ABugsDeath.AssemblyInfoInputs.cache
+F:\Works\Curso Vueling\Semana02\ABugsDeath\ABugsDeath\obj\Debug\netstandard2.0\ABugsDeath.AssemblyInfo.cs
+F:\Works\Curso Vueling\Semana02\ABugsDeath\ABugsDeath\obj\Debug\netstandard2.0\ABugsDeath.dll
+F:\Works\Curso Vueling\Semana02\ABugsDeath\ABugsDeath\obj\Debug\netstandard2.0\ABugsDeath.pdb
+C:\Users\jcarlos.garcia.ext\Desktop\Curso Vueling\Semana02\ABugsDeath\ABugsDeath\bin\Debug\netstandard2.0\ABugsDeath.deps.json
+C:\Users\jcarlos.garcia.ext\Desktop\Curso Vueling\Semana02\ABugsDeath\ABugsDeath\bin\Debug\netstandard2.0\ABugsDeath.dll
+C:\Users\jcarlos.garcia.ext\Desktop\Curso Vueling\Semana02\ABugsDeath\ABugsDeath\bin\Debug\netstandard2.0\ABugsDeath.pdb
+C:\Users\jcarlos.garcia.ext\Desktop\Curso Vueling\Semana02\ABugsDeath\ABugsDeath\obj\Debug\netstandard2.0\ABugsDeath.csproj.CoreCompileInputs.cache
+C:\Users\jcarlos.garcia.ext\Desktop\Curso Vueling\Semana02\ABugsDeath\ABugsDeath\obj\Debug\netstandard2.0\ABugsDeath.AssemblyInfoInputs.cache
+C:\Users\jcarlos.garcia.ext\Desktop\Curso Vueling\Semana02\ABugsDeath\ABugsDeath\obj\Debug\netstandard2.0\ABugsDeath.AssemblyInfo.cs
+C:\Users\jcarlos.garcia.ext\Desktop\Curso Vueling\Semana02\ABugsDeath\ABugsDeath\obj\Debug\netstandard2.0\ABugsDeath.dll
+C:\Users\jcarlos.garcia.ext\Desktop\Curso Vueling\Semana02\ABugsDeath\ABugsDeath\obj\Debug\netstandard2.0\ABugsDeath.pdb
+C:\Users\CTA\source\repos\Semana3\ABugsDeath\ABugsDeath\bin\Debug\netstandard2.0\ABugsDeath.deps.json
+C:\Users\CTA\source\repos\Semana3\ABugsDeath\ABugsDeath\bin\Debug\netstandard2.0\ABugsDeath.dll
+C:\Users\CTA\source\repos\Semana3\ABugsDeath\ABugsDeath\bin\Debug\netstandard2.0\ABugsDeath.pdb
+C:\Users\CTA\source\repos\Semana3\ABugsDeath\ABugsDeath\obj\Debug\netstandard2.0\ABugsDeath.csprojAssemblyReference.cache
+C:\Users\CTA\source\repos\Semana3\ABugsDeath\ABugsDeath\obj\Debug\netstandard2.0\ABugsDeath.csproj.CoreCompileInputs.cache
+C:\Users\CTA\source\repos\Semana3\ABugsDeath\ABugsDeath\obj\Debug\netstandard2.0\ABugsDeath.AssemblyInfoInputs.cache
+C:\Users\CTA\source\repos\Semana3\ABugsDeath\ABugsDeath\obj\Debug\netstandard2.0\ABugsDeath.AssemblyInfo.cs
+C:\Users\CTA\source\repos\Semana3\ABugsDeath\ABugsDeath\obj\Debug\netstandard2.0\ABugsDeath.dll
+C:\Users\CTA\source\repos\Semana3\ABugsDeath\ABugsDeath\obj\Debug\netstandard2.0\ABugsDeath.pdb
+C:\Users\CTA\source\repos\CucarachaTeam\CucarachaTeam\ABugsDeath\ABugsDeath\bin\Debug\netstandard2.0\ABugsDeath.deps.json
+C:\Users\CTA\source\repos\CucarachaTeam\CucarachaTeam\ABugsDeath\ABugsDeath\bin\Debug\netstandard2.0\ABugsDeath.dll
+C:\Users\CTA\source\repos\CucarachaTeam\CucarachaTeam\ABugsDeath\ABugsDeath\bin\Debug\netstandard2.0\ABugsDeath.pdb
+C:\Users\CTA\source\repos\CucarachaTeam\CucarachaTeam\ABugsDeath\ABugsDeath\obj\Debug\netstandard2.0\ABugsDeath.csprojAssemblyReference.cache
+C:\Users\CTA\source\repos\CucarachaTeam\CucarachaTeam\ABugsDeath\ABugsDeath\obj\Debug\netstandard2.0\ABugsDeath.csproj.CoreCompileInputs.cache
+C:\Users\CTA\source\repos\CucarachaTeam\CucarachaTeam\ABugsDeath\ABugsDeath\obj\Debug\netstandard2.0\ABugsDeath.AssemblyInfoInputs.cache
+C:\Users\CTA\source\repos\CucarachaTeam\CucarachaTeam\ABugsDeath\ABugsDeath\obj\Debug\netstandard2.0\ABugsDeath.AssemblyInfo.cs
+C:\Users\CTA\source\repos\CucarachaTeam\CucarachaTeam\ABugsDeath\ABugsDeath\obj\Debug\netstandard2.0\ABugsDeath.dll
+C:\Users\CTA\source\repos\CucarachaTeam\CucarachaTeam\ABugsDeath\ABugsDeath\obj\Debug\netstandard2.0\ABugsDeath.pdb
+C:\Users\CTA\source\repos\CucarachaTeam\ABugsDeath\bin\Debug\netstandard2.0\ABugsDeath.deps.json
+C:\Users\CTA\source\repos\CucarachaTeam\ABugsDeath\bin\Debug\netstandard2.0\ABugsDeath.dll
+C:\Users\CTA\source\repos\CucarachaTeam\ABugsDeath\bin\Debug\netstandard2.0\ABugsDeath.pdb
+C:\Users\CTA\source\repos\CucarachaTeam\ABugsDeath\obj\Debug\netstandard2.0\ABugsDeath.csprojAssemblyReference.cache
+C:\Users\CTA\source\repos\CucarachaTeam\ABugsDeath\obj\Debug\netstandard2.0\ABugsDeath.csproj.CoreCompileInputs.cache
+C:\Users\CTA\source\repos\CucarachaTeam\ABugsDeath\obj\Debug\netstandard2.0\ABugsDeath.AssemblyInfoInputs.cache
+C:\Users\CTA\source\repos\CucarachaTeam\ABugsDeath\obj\Debug\netstandard2.0\ABugsDeath.AssemblyInfo.cs
+C:\Users\CTA\source\repos\CucarachaTeam\ABugsDeath\obj\Debug\netstandard2.0\ABugsDeath.dll
+C:\Users\CTA\source\repos\CucarachaTeam\ABugsDeath\obj\Debug\netstandard2.0\ABugsDeath.pdb

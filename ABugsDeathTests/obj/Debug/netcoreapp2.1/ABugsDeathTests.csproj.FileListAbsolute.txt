@@ -1,0 +1,102 @@
+C:\Users\jcarl\Curso Vueling\Semana02\ABugsDeath\ABugsDeathTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jcarl\Curso Vueling\Semana02\ABugsDeath\ABugsDeathTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jcarl\Curso Vueling\Semana02\ABugsDeath\ABugsDeathTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jcarl\Curso Vueling\Semana02\ABugsDeath\ABugsDeathTests\bin\Debug\netcoreapp2.1\ABugsDeathTests.deps.json
+C:\Users\jcarl\Curso Vueling\Semana02\ABugsDeath\ABugsDeathTests\bin\Debug\netcoreapp2.1\ABugsDeathTests.runtimeconfig.json
+C:\Users\jcarl\Curso Vueling\Semana02\ABugsDeath\ABugsDeathTests\bin\Debug\netcoreapp2.1\ABugsDeathTests.runtimeconfig.dev.json
+C:\Users\jcarl\Curso Vueling\Semana02\ABugsDeath\ABugsDeathTests\bin\Debug\netcoreapp2.1\ABugsDeathTests.dll
+C:\Users\jcarl\Curso Vueling\Semana02\ABugsDeath\ABugsDeathTests\bin\Debug\netcoreapp2.1\ABugsDeathTests.pdb
+C:\Users\jcarl\Curso Vueling\Semana02\ABugsDeath\ABugsDeathTests\bin\Debug\netcoreapp2.1\ABugsDeath.dll
+C:\Users\jcarl\Curso Vueling\Semana02\ABugsDeath\ABugsDeathTests\bin\Debug\netcoreapp2.1\ABugsDeath.pdb
+C:\Users\jcarl\Curso Vueling\Semana02\ABugsDeath\ABugsDeathTests\obj\Debug\netcoreapp2.1\ABugsDeathTests.csprojAssemblyReference.cache
+C:\Users\jcarl\Curso Vueling\Semana02\ABugsDeath\ABugsDeathTests\obj\Debug\netcoreapp2.1\ABugsDeathTests.csproj.CoreCompileInputs.cache
+C:\Users\jcarl\Curso Vueling\Semana02\ABugsDeath\ABugsDeathTests\obj\Debug\netcoreapp2.1\ABugsDeathTests.AssemblyInfoInputs.cache
+C:\Users\jcarl\Curso Vueling\Semana02\ABugsDeath\ABugsDeathTests\obj\Debug\netcoreapp2.1\ABugsDeathTests.AssemblyInfo.cs
+C:\Users\jcarl\Curso Vueling\Semana02\ABugsDeath\ABugsDeathTests\obj\Debug\netcoreapp2.1\ABugsDeathTests.csproj.CopyComplete
+C:\Users\jcarl\Curso Vueling\Semana02\ABugsDeath\ABugsDeathTests\obj\Debug\netcoreapp2.1\ABugsDeathTests.dll
+C:\Users\jcarl\Curso Vueling\Semana02\ABugsDeath\ABugsDeathTests\obj\Debug\netcoreapp2.1\ABugsDeathTests.pdb
+F:\Works\Curso Vueling\Semana02\ABugsDeath\ABugsDeathTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\Works\Curso Vueling\Semana02\ABugsDeath\ABugsDeathTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\Works\Curso Vueling\Semana02\ABugsDeath\ABugsDeathTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\Works\Curso Vueling\Semana02\ABugsDeath\ABugsDeathTests\bin\Debug\netcoreapp2.1\ABugsDeathTests.deps.json
+F:\Works\Curso Vueling\Semana02\ABugsDeath\ABugsDeathTests\bin\Debug\netcoreapp2.1\ABugsDeathTests.runtimeconfig.json
+F:\Works\Curso Vueling\Semana02\ABugsDeath\ABugsDeathTests\bin\Debug\netcoreapp2.1\ABugsDeathTests.runtimeconfig.dev.json
+F:\Works\Curso Vueling\Semana02\ABugsDeath\ABugsDeathTests\bin\Debug\netcoreapp2.1\ABugsDeathTests.dll
+F:\Works\Curso Vueling\Semana02\ABugsDeath\ABugsDeathTests\bin\Debug\netcoreapp2.1\ABugsDeathTests.pdb
+F:\Works\Curso Vueling\Semana02\ABugsDeath\ABugsDeathTests\bin\Debug\netcoreapp2.1\ABugsDeath.dll
+F:\Works\Curso Vueling\Semana02\ABugsDeath\ABugsDeathTests\bin\Debug\netcoreapp2.1\ABugsDeath.pdb
+F:\Works\Curso Vueling\Semana02\ABugsDeath\ABugsDeathTests\obj\Debug\netcoreapp2.1\ABugsDeathTests.csprojAssemblyReference.cache
+F:\Works\Curso Vueling\Semana02\ABugsDeath\ABugsDeathTests\obj\Debug\netcoreapp2.1\ABugsDeathTests.csproj.CoreCompileInputs.cache
+F:\Works\Curso Vueling\Semana02\ABugsDeath\ABugsDeathTests\obj\Debug\netcoreapp2.1\ABugsDeathTests.AssemblyInfoInputs.cache
+F:\Works\Curso Vueling\Semana02\ABugsDeath\ABugsDeathTests\obj\Debug\netcoreapp2.1\ABugsDeathTests.AssemblyInfo.cs
+F:\Works\Curso Vueling\Semana02\ABugsDeath\ABugsDeathTests\obj\Debug\netcoreapp2.1\ABugsDeathTests.csproj.CopyComplete
+F:\Works\Curso Vueling\Semana02\ABugsDeath\ABugsDeathTests\obj\Debug\netcoreapp2.1\ABugsDeathTests.dll
+F:\Works\Curso Vueling\Semana02\ABugsDeath\ABugsDeathTests\obj\Debug\netcoreapp2.1\ABugsDeathTests.pdb
+C:\Users\jcarlos.garcia.ext\Desktop\Curso Vueling\Semana02\ABugsDeath\ABugsDeathTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jcarlos.garcia.ext\Desktop\Curso Vueling\Semana02\ABugsDeath\ABugsDeathTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jcarlos.garcia.ext\Desktop\Curso Vueling\Semana02\ABugsDeath\ABugsDeathTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jcarlos.garcia.ext\Desktop\Curso Vueling\Semana02\ABugsDeath\ABugsDeathTests\bin\Debug\netcoreapp2.1\ABugsDeathTests.deps.json
+C:\Users\jcarlos.garcia.ext\Desktop\Curso Vueling\Semana02\ABugsDeath\ABugsDeathTests\bin\Debug\netcoreapp2.1\ABugsDeathTests.runtimeconfig.json
+C:\Users\jcarlos.garcia.ext\Desktop\Curso Vueling\Semana02\ABugsDeath\ABugsDeathTests\bin\Debug\netcoreapp2.1\ABugsDeathTests.runtimeconfig.dev.json
+C:\Users\jcarlos.garcia.ext\Desktop\Curso Vueling\Semana02\ABugsDeath\ABugsDeathTests\bin\Debug\netcoreapp2.1\ABugsDeathTests.dll
+C:\Users\jcarlos.garcia.ext\Desktop\Curso Vueling\Semana02\ABugsDeath\ABugsDeathTests\bin\Debug\netcoreapp2.1\ABugsDeathTests.pdb
+C:\Users\jcarlos.garcia.ext\Desktop\Curso Vueling\Semana02\ABugsDeath\ABugsDeathTests\bin\Debug\netcoreapp2.1\ABugsDeath.dll
+C:\Users\jcarlos.garcia.ext\Desktop\Curso Vueling\Semana02\ABugsDeath\ABugsDeathTests\bin\Debug\netcoreapp2.1\ABugsDeath.pdb
+C:\Users\jcarlos.garcia.ext\Desktop\Curso Vueling\Semana02\ABugsDeath\ABugsDeathTests\obj\Debug\netcoreapp2.1\ABugsDeathTests.csprojAssemblyReference.cache
+C:\Users\jcarlos.garcia.ext\Desktop\Curso Vueling\Semana02\ABugsDeath\ABugsDeathTests\obj\Debug\netcoreapp2.1\ABugsDeathTests.csproj.CoreCompileInputs.cache
+C:\Users\jcarlos.garcia.ext\Desktop\Curso Vueling\Semana02\ABugsDeath\ABugsDeathTests\obj\Debug\netcoreapp2.1\ABugsDeathTests.AssemblyInfoInputs.cache
+C:\Users\jcarlos.garcia.ext\Desktop\Curso Vueling\Semana02\ABugsDeath\ABugsDeathTests\obj\Debug\netcoreapp2.1\ABugsDeathTests.AssemblyInfo.cs
+C:\Users\jcarlos.garcia.ext\Desktop\Curso Vueling\Semana02\ABugsDeath\ABugsDeathTests\obj\Debug\netcoreapp2.1\ABugsDeathTests.csproj.CopyComplete
+C:\Users\jcarlos.garcia.ext\Desktop\Curso Vueling\Semana02\ABugsDeath\ABugsDeathTests\obj\Debug\netcoreapp2.1\ABugsDeathTests.dll
+C:\Users\jcarlos.garcia.ext\Desktop\Curso Vueling\Semana02\ABugsDeath\ABugsDeathTests\obj\Debug\netcoreapp2.1\ABugsDeathTests.pdb
+C:\Users\CTA\source\repos\Semana3\ABugsDeath\ABugsDeathTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\CTA\source\repos\Semana3\ABugsDeath\ABugsDeathTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\CTA\source\repos\Semana3\ABugsDeath\ABugsDeathTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\CTA\source\repos\Semana3\ABugsDeath\ABugsDeathTests\bin\Debug\netcoreapp2.1\ABugsDeathTests.deps.json
+C:\Users\CTA\source\repos\Semana3\ABugsDeath\ABugsDeathTests\bin\Debug\netcoreapp2.1\ABugsDeathTests.runtimeconfig.json
+C:\Users\CTA\source\repos\Semana3\ABugsDeath\ABugsDeathTests\bin\Debug\netcoreapp2.1\ABugsDeathTests.runtimeconfig.dev.json
+C:\Users\CTA\source\repos\Semana3\ABugsDeath\ABugsDeathTests\bin\Debug\netcoreapp2.1\ABugsDeathTests.dll
+C:\Users\CTA\source\repos\Semana3\ABugsDeath\ABugsDeathTests\bin\Debug\netcoreapp2.1\ABugsDeathTests.pdb
+C:\Users\CTA\source\repos\Semana3\ABugsDeath\ABugsDeathTests\bin\Debug\netcoreapp2.1\ABugsDeath.dll
+C:\Users\CTA\source\repos\Semana3\ABugsDeath\ABugsDeathTests\bin\Debug\netcoreapp2.1\ABugsDeath.pdb
+C:\Users\CTA\source\repos\Semana3\ABugsDeath\ABugsDeathTests\obj\Debug\netcoreapp2.1\ABugsDeathTests.csprojAssemblyReference.cache
+C:\Users\CTA\source\repos\Semana3\ABugsDeath\ABugsDeathTests\obj\Debug\netcoreapp2.1\ABugsDeathTests.csproj.CoreCompileInputs.cache
+C:\Users\CTA\source\repos\Semana3\ABugsDeath\ABugsDeathTests\obj\Debug\netcoreapp2.1\ABugsDeathTests.AssemblyInfoInputs.cache
+C:\Users\CTA\source\repos\Semana3\ABugsDeath\ABugsDeathTests\obj\Debug\netcoreapp2.1\ABugsDeathTests.AssemblyInfo.cs
+C:\Users\CTA\source\repos\Semana3\ABugsDeath\ABugsDeathTests\obj\Debug\netcoreapp2.1\ABugsDeathTests.csproj.CopyComplete
+C:\Users\CTA\source\repos\Semana3\ABugsDeath\ABugsDeathTests\obj\Debug\netcoreapp2.1\ABugsDeathTests.dll
+C:\Users\CTA\source\repos\Semana3\ABugsDeath\ABugsDeathTests\obj\Debug\netcoreapp2.1\ABugsDeathTests.pdb
+C:\Users\CTA\source\repos\CucarachaTeam\CucarachaTeam\ABugsDeath\ABugsDeathTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\CTA\source\repos\CucarachaTeam\CucarachaTeam\ABugsDeath\ABugsDeathTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\CTA\source\repos\CucarachaTeam\CucarachaTeam\ABugsDeath\ABugsDeathTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\CTA\source\repos\CucarachaTeam\CucarachaTeam\ABugsDeath\ABugsDeathTests\bin\Debug\netcoreapp2.1\ABugsDeathTests.deps.json
+C:\Users\CTA\source\repos\CucarachaTeam\CucarachaTeam\ABugsDeath\ABugsDeathTests\bin\Debug\netcoreapp2.1\ABugsDeathTests.runtimeconfig.json
+C:\Users\CTA\source\repos\CucarachaTeam\CucarachaTeam\ABugsDeath\ABugsDeathTests\bin\Debug\netcoreapp2.1\ABugsDeathTests.runtimeconfig.dev.json
+C:\Users\CTA\source\repos\CucarachaTeam\CucarachaTeam\ABugsDeath\ABugsDeathTests\bin\Debug\netcoreapp2.1\ABugsDeathTests.dll
+C:\Users\CTA\source\repos\CucarachaTeam\CucarachaTeam\ABugsDeath\ABugsDeathTests\bin\Debug\netcoreapp2.1\ABugsDeathTests.pdb
+C:\Users\CTA\source\repos\CucarachaTeam\CucarachaTeam\ABugsDeath\ABugsDeathTests\bin\Debug\netcoreapp2.1\ABugsDeath.dll
+C:\Users\CTA\source\repos\CucarachaTeam\CucarachaTeam\ABugsDeath\ABugsDeathTests\bin\Debug\netcoreapp2.1\ABugsDeath.pdb
+C:\Users\CTA\source\repos\CucarachaTeam\CucarachaTeam\ABugsDeath\ABugsDeathTests\obj\Debug\netcoreapp2.1\ABugsDeathTests.csprojAssemblyReference.cache
+C:\Users\CTA\source\repos\CucarachaTeam\CucarachaTeam\ABugsDeath\ABugsDeathTests\obj\Debug\netcoreapp2.1\ABugsDeathTests.csproj.CoreCompileInputs.cache
+C:\Users\CTA\source\repos\CucarachaTeam\CucarachaTeam\ABugsDeath\ABugsDeathTests\obj\Debug\netcoreapp2.1\ABugsDeathTests.AssemblyInfoInputs.cache
+C:\Users\CTA\source\repos\CucarachaTeam\CucarachaTeam\ABugsDeath\ABugsDeathTests\obj\Debug\netcoreapp2.1\ABugsDeathTests.AssemblyInfo.cs
+C:\Users\CTA\source\repos\CucarachaTeam\CucarachaTeam\ABugsDeath\ABugsDeathTests\obj\Debug\netcoreapp2.1\ABugsDeathTests.csproj.CopyComplete
+C:\Users\CTA\source\repos\CucarachaTeam\CucarachaTeam\ABugsDeath\ABugsDeathTests\obj\Debug\netcoreapp2.1\ABugsDeathTests.dll
+C:\Users\CTA\source\repos\CucarachaTeam\CucarachaTeam\ABugsDeath\ABugsDeathTests\obj\Debug\netcoreapp2.1\ABugsDeathTests.pdb
+C:\Users\CTA\source\repos\CucarachaTeam\ABugsDeathTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\CTA\source\repos\CucarachaTeam\ABugsDeathTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\CTA\source\repos\CucarachaTeam\ABugsDeathTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\CTA\source\repos\CucarachaTeam\ABugsDeathTests\bin\Debug\netcoreapp2.1\ABugsDeathTests.deps.json
+C:\Users\CTA\source\repos\CucarachaTeam\ABugsDeathTests\bin\Debug\netcoreapp2.1\ABugsDeathTests.runtimeconfig.json
+C:\Users\CTA\source\repos\CucarachaTeam\ABugsDeathTests\bin\Debug\netcoreapp2.1\ABugsDeathTests.runtimeconfig.dev.json
+C:\Users\CTA\source\repos\CucarachaTeam\ABugsDeathTests\bin\Debug\netcoreapp2.1\ABugsDeathTests.dll
+C:\Users\CTA\source\repos\CucarachaTeam\ABugsDeathTests\bin\Debug\netcoreapp2.1\ABugsDeathTests.pdb
+C:\Users\CTA\source\repos\CucarachaTeam\ABugsDeathTests\bin\Debug\netcoreapp2.1\ABugsDeath.dll
+C:\Users\CTA\source\repos\CucarachaTeam\ABugsDeathTests\bin\Debug\netcoreapp2.1\ABugsDeath.pdb
+C:\Users\CTA\source\repos\CucarachaTeam\ABugsDeathTests\obj\Debug\netcoreapp2.1\ABugsDeathTests.csprojAssemblyReference.cache
+C:\Users\CTA\source\repos\CucarachaTeam\ABugsDeathTests\obj\Debug\netcoreapp2.1\ABugsDeathTests.csproj.CoreCompileInputs.cache
+C:\Users\CTA\source\repos\CucarachaTeam\ABugsDeathTests\obj\Debug\netcoreapp2.1\ABugsDeathTests.AssemblyInfoInputs.cache
+C:\Users\CTA\source\repos\CucarachaTeam\ABugsDeathTests\obj\Debug\netcoreapp2.1\ABugsDeathTests.AssemblyInfo.cs
+C:\Users\CTA\source\repos\CucarachaTeam\ABugsDeathTests\obj\Debug\netcoreapp2.1\ABugsDeathTests.csproj.CopyComplete
+C:\Users\CTA\source\repos\CucarachaTeam\ABugsDeathTests\obj\Debug\netcoreapp2.1\ABugsDeathTests.dll
+C:\Users\CTA\source\repos\CucarachaTeam\ABugsDeathTests\obj\Debug\netcoreapp2.1\ABugsDeathTests.pdb
