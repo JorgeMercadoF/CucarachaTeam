@@ -39,7 +39,7 @@
   },
   "libraries": {
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "a/iSwnRZb+LHFk49hQOyThh/ZNC3vsbZsF65XwQIb863qF6msmhdQtxGXFL28Ob2NsCz/drEj28BJd/YPpLRBg==",
+      "sha512": "bLpT1f/SFlO1CzqXG12KnJzpZs6lv24uX2Rzi4Fmm0noJpNlnWRVryuO3yK18Ca04t/YHcO1e1Z0WDfjseqNzw==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
@@ -228,23 +228,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\CTA\\.nuget\\packages\\": {},
+    "C:\\Users\\Jorge\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CTA\\source\\repos\\CucarachaTeam\\ABugsDeath\\ABugsDeath.csproj",
+      "projectUniqueName": "C:\\Users\\Jorge\\source\\repos\\CucarachaTeam\\ABugsDeath\\ABugsDeath.csproj",
       "projectName": "ABugsDeath",
-      "projectPath": "C:\\Users\\CTA\\source\\repos\\CucarachaTeam\\ABugsDeath\\ABugsDeath.csproj",
-      "packagesPath": "C:\\Users\\CTA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CTA\\source\\repos\\CucarachaTeam\\ABugsDeath\\obj\\",
+      "projectPath": "C:\\Users\\Jorge\\source\\repos\\CucarachaTeam\\ABugsDeath\\ABugsDeath.csproj",
+      "packagesPath": "C:\\Users\\Jorge\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jorge\\source\\repos\\CucarachaTeam\\ABugsDeath\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\CTA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Jorge\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
